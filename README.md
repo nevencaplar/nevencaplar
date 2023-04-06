@@ -6,7 +6,7 @@ We are currently 🌱 [growing the code](https://github.com/lincc-frameworks/lss
 
 Previously, I worked for the [Prime Focus Spectrograph](https://pfs.ipmu.jp) at Subaru telescope 🔭 as part of the data reduction pipeline team - focusing on [2D Point spread function modelling](https://github.com/Subaru-PFS/dev_2ddrp/tree/master/2d_PSF_code).
 
-My scientifc work focuses on variability, AGN and star-formation pyhsics.
+My scientifc work focuses on variability, AGN and star-formation pyhsics [papers here](https://ui.adsabs.harvard.edu/user/libraries/zkTsc4RdQzCerRknc0V7Nw).
 
 <!--
 **nevencaplar/nevencaplar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
