@@ -3,10 +3,10 @@
 I'm a researcher at [Dirac (Institute for Data-intensive Research in Astrophysics and Cosmology)](https://dirac.astro.washington.edu), University of Washington! I work on the commissioning of the [Legacy Survey of Space and Time (LSST)](https://www.lsst.org) 🔭  + and the commissioning of [LINCC-Frameworks (LSST Interdisciplinary Network for Collaboration and Computing)](https://www.lsstcorporation.org/lincc/frameworks). 
 
 ### LINCC-Framework projects 
-LINCC - Frameworks aims to 🌱 grow and  develop 🌱software for the analysis of the large amounts of data expected from LSST.
+LINCC - Frameworks aims to 🌱 grow and  develop 🌱 software for the analysis of the large amounts of data expected from LSST.
 
 I am currently guiding the development of 🌱 [TAPE](https://github.com/lincc-frameworks/lsstseries) 🌱 ; the code for efficient and scalable analysis of :hourglass_flowing_sand: time-domain data :hourglass_flowing_sand:.  
-I have recently become more involved with 🌱 [LSDB](https://github.com/astronomy-commons/lsdb)🌱 ; the code for efficient and scalable :dart: cross-matching :dart: & analysis of astronomy catalogs.  
+I have recently become more involved with 🌱 [LSDB](https://github.com/astronomy-commons/lsdb) 🌱 ; the code for efficient and scalable :dart: cross-matching :dart: & analysis of astronomy catalogs.  
 The main goal of these efforts is to enable science in the LSST era. For example, find a notebook from one of our collaborators using the code [here](https://github.com/dirac-institute/ZTF_FG_BoyajianSearch/blob/main/analysis/notebooks/tda-uw-demo/hrdiagram-timeseries-ztf-gaia.ipynb).
 
 ### LSST 
