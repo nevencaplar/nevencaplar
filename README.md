@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a researcher at [Dirac (Institute for Data-intensive Research in Astrophysics and Cosmology)](https://dirac.astro.washington.edu), University of Washington! I work on the commissioning of [LSST](https://www.lsst.org) 🔭  + and commissioning of [LINCC (LSST Interdisciplinary Network for Collaboration and Computing)](https://www.lsstcorporation.org/lincc/frameworks). 
+I'm a researcher at [Dirac (Institute for Data-intensive Research in Astrophysics and Cosmology)](https://dirac.astro.washington.edu), University of Washington! I work on the commissioning of [LSST](https://www.lsst.org) 🔭  + and commissioning of [LINCC-Frameworks (LSST Interdisciplinary Network for Collaboration and Computing)](https://www.lsstcorporation.org/lincc/frameworks). 
 
 We are currently 🌱 [growing the code](https://github.com/lincc-frameworks/lsstseries) 🌱  for efficent and scalable analysis of large amount of :hourglass_flowing_sand: time-domain data :hourglass_flowing_sand: expected from LSST. See this project and others at our [wiki](https://github.com/lincc-frameworks/docs/wiki).
 
