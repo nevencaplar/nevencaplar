@@ -11,7 +11,7 @@ The main goal of these efforts is to enable science in the LSST era. Find the de
 
 ### LSST commissioning
 
-I am a member of the science verification team. For instance, I have been working on the [analysis of difference imagining pipeline using the data from the auxiliary telescope](https://github.com/lsst-sitcom/notebooks_dia/blob/main/use_custom_APDB_for_auxtel.ipynb). See [a notebook prepared for a May 2024 sprint for the verification of the observation rehersal data] (https://github.com/lsst-sitcom/notebooks_dia/blob/main/Op_rehs_3_dia_truth_sprint_May13_2024.ipynb).
+I am a member of the science verification team. For instance, I have been working on the [analysis of difference imagining pipeline using the data from the auxiliary telescope](https://github.com/lsst-sitcom/notebooks_dia/blob/main/use_custom_APDB_for_auxtel.ipynb). See [a notebook prepared for a May 2024 sprint for the verification of the observation rehersal data](https://github.com/lsst-sitcom/notebooks_dia/blob/main/Op_rehs_3_dia_truth_sprint_May13_2024.ipynb).
 
 ### Previous work
 I worked on commissioning the [Prime Focus Spectrograph](https://pfs.ipmu.jp) at Subaru telescope 🔭 as part of the data reduction pipeline team - focusing on [2D Point spread function modeling](https://github.com/Subaru-PFS/dev_2ddrp/tree/master/2d_PSF_code).
