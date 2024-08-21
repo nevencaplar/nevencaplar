@@ -5,8 +5,7 @@ I'm a researcher at [Dirac (Institute for Data-intensive Research in Astrophysic
 ### LINCC-Frameworks
 LINCC - Frameworks aims to 🌱 grow and  develop 🌱 software for the analysis of the large amounts of data expected from LSST.
 
-I am currently guiding the development of 🌱 [TAPE](https://github.com/lincc-frameworks/lsstseries) 🌱 ; the code for efficient and scalable analysis of :hourglass_flowing_sand: time-domain data :hourglass_flowing_sand:.  
-We plan to merge TAPE into 🌱 [LSDB](https://github.com/astronomy-commons/lsdb) 🌱 ; the general package for efficient and scalable :hammer: analysis :hammer: and  :dart: cross-matching :dart: of astronomy catalogs. This merge is going to be achived via a new 🌱 [nested package](https://github.com/lincc-frameworks/nested-pandas) 🌱. 
+I am currently guiding the development 🌱 [LSDB](https://github.com/astronomy-commons/lsdb) 🌱 ; the general package for efficient and scalable :hammer: analysis :hammer: and  :dart: cross-matching :dart: of astronomy catalogs. We are particulary excited about how we use 🌱 [nested package](https://github.com/lincc-frameworks/nested-pandas) 🌱 to enable time-domain analysis. 
 
 The main goal of these efforts is to enable science in the LSST era. Find [here the demo we made for a conference in May 2024](https://github.com/lincc-frameworks/Rare_Gems_Demo).
 
