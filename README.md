@@ -7,7 +7,7 @@ LINCC - Frameworks aims to 🌱 grow and  develop 🌱 software for the analysis
 
 I am currently guiding the development 🌱 [LSDB](https://github.com/astronomy-commons/lsdb) 🌱 ; the general package for efficient and scalable :hammer: analysis :hammer: and  :dart: cross-matching :dart: of astronomy catalogs. We are particulary excited about how we use 🌱 [nested package](https://github.com/lincc-frameworks/nested-pandas) 🌱 to enable time-domain analysis. 
 
-The main goal of these efforts is to enable science in the LSST era. Find [here the demo we made for the ADASS conference in November 2024][(https://github.com/lincc-frameworks/ADASS_2024_LSDB_HATS)].
+The main goal of these efforts is to enable science in the LSST era. Find [here the demo we made for the ADASS conference in November 2024](https://github.com/lincc-frameworks/ADASS_2024_LSDB_HATS).
 
 ### LSST commissioning
 
