@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a research scientist/engineer for [LINCC-Frameworks (LSST Interdisciplinary Network for Collaboration and Computing)](https://lsstdiscoveryalliance.org/programs/lincc-frameworks/). I am based at [Dirac Institute](https://dirac.astro.washington.edu), University of Washington.
+I'm a research scientist/engineer for [LINCC-Frameworks (LSST Interdisciplinary Network for Collaboration and Computing)](https://lsstdiscoveryalliance.org/programs/lincc-frameworks/). I am based at [DiRAC Institute](https://dirac.astro.washington.edu), University of Washington.
 
 ### LINCC-Frameworks
 LINCC - Frameworks aims to 🌱 grow and  develop 🌱 software for the analysis of the large amounts of data expected from [Legacy Survey of Space and Time (LSST)](https://www.lsst.org).
