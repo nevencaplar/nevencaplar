@@ -3,7 +3,7 @@
 I'm a research scientist/engineer for [LINCC-Frameworks (LSST Interdisciplinary Network for Collaboration and Computing)](https://lsstdiscoveryalliance.org/programs/lincc-frameworks/). I am based at [DiRAC Institute](https://dirac.astro.washington.edu), University of Washington.
 
 ### LINCC-Frameworks
-LINCC - Frameworks aims to 🌱 grow and  develop 🌱 software for the analysis of the large amounts of data expected from [Legacy Survey of Space and Time (LSST)](https://www.lsst.org).
+LINCC - Frameworks aims to 🌱 grow and  develop 🌱 software for the analysis of the large amounts of data expected from upcoming surveys, such as [Legacy Survey of Space and Time (LSST)](https://www.lsst.org).
 
 I am currently guiding the development 🌱 [LSDB](https://github.com/astronomy-commons/lsdb) 🌱 ; the python package for efficient and scalable :hammer: analysis :hammer: and  :dart: cross-matching :dart: of astronomy catalogs. We are particulary excited about how we use 🌱 [nested package](https://github.com/lincc-frameworks/nested-pandas) 🌱 to enable time-domain analysis. 
 
