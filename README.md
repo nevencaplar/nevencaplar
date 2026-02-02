@@ -3,11 +3,11 @@
 I'm a research scientist/engineer for [LINCC-Frameworks (LSST Interdisciplinary Network for Collaboration and Computing)](https://lsstdiscoveryalliance.org/programs/lincc-frameworks/). I am based at [DiRAC Institute](https://dirac.astro.washington.edu), University of Washington.
 
 ### LINCC-Frameworks
-LINCC - Frameworks aims to 🌱 grow and  develop 🌱 software for the analysis of the large amounts of data expected from upcoming surveys, such as [Legacy Survey of Space and Time (LSST)](https://www.lsst.org).
+LINCC - Frameworks aims to 🌱 grow and  develop 🌱 software for the analysis of the large amounts of data expected from upcoming surveys, such as [LSST](https://www.lsst.org), [Euclid](https://www.euclid-ec.org), [Roman](https://roman.gsfc.nasa.gov), and [Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/).
 
-I am currently guiding the development 🌱 [LSDB](https://github.com/astronomy-commons/lsdb) 🌱 ; the python package for efficient and scalable :hammer: analysis :hammer: and  :dart: cross-matching :dart: of astronomy catalogs. We are particulary excited about how we use 🌱 [nested package](https://github.com/lincc-frameworks/nested-pandas) 🌱 to enable time-domain analysis. 
+I am currently guiding the development ⚙️[LSDB](https://github.com/astronomy-commons/lsdb) ⚙️; the python package for efficient and scalable :hammer: analysis :hammer: and  :dart: cross-matching :dart: of astronomy catalogs. We are particulary excited about how we use ⚙️[nested package](https://github.com/lincc-frameworks/nested-pandas)⚙️ to enable time-domain analysis. 
 
-The main goal of these efforts is to enable science in the LSST era. Find [here the demo we made for the review of the project in February 2025](https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/lsdb/Notebook_LSDB_HATS.ipynb). And check out [lsdb.io](https://lsdb.io)!
+Find [here the demo we made for the review of the project in February 2025](https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/lsdb/Notebook_LSDB_HATS.ipynb). And check out [lsdb.io](https://lsdb.io).
 
 ### Previous work
 #### Commissioning of Rubin Observatory
